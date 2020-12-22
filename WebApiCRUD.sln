@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{76EA2A74-7D88-4E73-AA99-32473A4EA57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIService", "WebAPIService\WebAPIService.csproj", "{A2CB5D74-DAC0-4B00-90A8-7C26180A5C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76EA2A74-7D88-4E73-AA99-32473A4EA57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EA2A74-7D88-4E73-AA99-32473A4EA57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EA2A74-7D88-4E73-AA99-32473A4EA57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EA2A74-7D88-4E73-AA99-32473A4EA57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CB5D74-DAC0-4B00-90A8-7C26180A5C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CB5D74-DAC0-4B00-90A8-7C26180A5C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CB5D74-DAC0-4B00-90A8-7C26180A5C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CB5D74-DAC0-4B00-90A8-7C26180A5C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC913C3-33D0-459C-B6F3-79A1B2F81EA9}
+	EndGlobalSection
+EndGlobal
